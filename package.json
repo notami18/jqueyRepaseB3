@@ -1,0 +1,14 @@
+{
+  "name": "bootaccordion3",
+  "version": "1.0.0",
+  "description": "Hola",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Minota",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
